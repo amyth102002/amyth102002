@@ -1,7 +1,6 @@
 # 💫 About Me:
 A Computer Enginner with interest in developing Web2.0 and Web3.0 Webapps<br>Exploring Blockchain Technologies and building responsive, efficient, and user-focused web applications<br>Strive to design and build efficient, secure, and user-focused digital solutions using modern frameworks and creative problem-solving approaches.<br>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amitjadhav.amitjadhav)
-![Profile Views](https://komarev.com/ghpvc/?username=amitjadhav&color=blue)
+
 
 
 
@@ -16,6 +15,6 @@ A Computer Enginner with interest in developing Web2.0 and Web3.0 Webapps<br>Exp
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amyth102002&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amyth102002&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amitjadhav.amitjadhav)
+![Profile Views](https://komarev.com/ghpvc/?username=amitjadhav&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
