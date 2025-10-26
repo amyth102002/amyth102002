@@ -1,5 +1,5 @@
 # 💫 About Me:
-A computer Enginner with interest in developing Web2.0 and Web3.0 Webapplication<br>strive to design and build efficient, secure, and user-focused digital solutions using modern frameworks and creative problem-solving approaches.<br>
+A Computer Enginner with interest in developing Web2.0 and Web3.0 Webapps<br>Exploring Blockchain Technologies and building responsive, efficient, and user-focused web applications<br>Strive to design and build efficient, secure, and user-focused digital solutions using modern frameworks and creative problem-solving approaches.<br>
 
 
 ## 🌐 Socials:
